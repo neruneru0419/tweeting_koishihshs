@@ -1,2 +1,2 @@
 # tweeting_koishihshs
-キーツの呟きをGoogleHomeに喋らせるコード
+[キーツ](http://twitter.com/koishihshs)の呟きをGoogleHomeに喋らせるコード
